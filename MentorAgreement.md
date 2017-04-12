@@ -51,3 +51,5 @@ CoderDojo Owari 主宰：iwakura@coderdojoowari.org
 ***
 最終更新日と文書バージョン  
 2017年4月12日、バージョン1.0
+
+ベース: [CoderDojo西宮/梅田メンター同意書](https://github.com/coderdojo-nishinomiya-umeda/document/blob/master/MentorAgreement.md)
